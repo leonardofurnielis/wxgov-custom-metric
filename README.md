@@ -1,4 +1,4 @@
-# wos-custom-metric-container
+# wxgov-custom-metric
 
 ## Table of Contents
 
